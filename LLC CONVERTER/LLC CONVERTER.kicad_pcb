@@ -95,7 +95,7 @@
 	(footprint "PCB:UCC256601DDBR"
 		(layer "F.Cu")
 		(uuid "6c0dcc03-01a9-45da-bc36-1fecf614aa48")
-		(at 173.05 84.745)
+		(at 71.9 69.78)
 		(descr "UCC256601DDBR-2")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC1"
